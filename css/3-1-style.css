@@ -210,6 +210,18 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 }
 
 
+#mainEntryTitlenone {
+	width: 870px;
+	font-size: 20px;
+	font-weight:bold;
+	background-color: #FFFFFF;
+	height: 40px;
+	padding: 0px;
+	margin: 0px;
+	float: left;
+	color:#00A300;
+	text-align: center;
+}
 #mainEntryTitleleft {
 	width: 550px;
 	font-size: 20px;
